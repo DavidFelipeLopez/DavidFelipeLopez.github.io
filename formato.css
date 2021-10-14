@@ -2,5 +2,5 @@ h1 {color:red;}
 #f1 {color:blue;}
 .f2 {color:green;}
 b {color:yellow;}
-#b1 {color:blue;}
-#b2 {color:red;}
+#parrafo .b1 b {color:red;}
+#parrafo .b2 b {color:blue;}
