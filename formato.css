@@ -1,4 +1,5 @@
 h1 {color:red;}
 #f1 {color:blue;}
 .f2 {color:green;}
-b {color:yellow;}
+b {color:yellow;
+	background-color:black;}
